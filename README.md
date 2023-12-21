@@ -25,6 +25,8 @@ logic_q3.py
 
 ## 自動化測試
 
+- 執行檔案 automation_solution.py
+
 ### 主頁面 
 - 螢幕截圖檔名: main.png
 
